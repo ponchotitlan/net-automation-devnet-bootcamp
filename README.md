@@ -11,7 +11,7 @@ The structure follows the **official Cisco exam blueprint domains**.
 
 ---
 
-# 1. Software Development and Design (15%)
+### 1. Software Development and Design (15%)
 
 | Subtopic | Blueprint Overview | Resource Type | Resource | Link |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ The structure follows the **official Cisco exam blueprint domains**.
 
 ---
 
-# 2. Understanding and Using APIs (20%)
+### 2. Understanding and Using APIs (20%)
 
 | Subtopic | Blueprint Overview | Resource Type | Resource | Link |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ The structure follows the **official Cisco exam blueprint domains**.
 
 ---
 
-# 3. Cisco Platforms and Development (15%)
+### 3. Cisco Platforms and Development (15%)
 
 | Subtopic | Blueprint Overview | Resource Type | Resource | Link |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ The structure follows the **official Cisco exam blueprint domains**.
 
 ---
 
-# 4. Application Deployment and Security (15%)
+### 4. Application Deployment and Security (15%)
 
 | Subtopic | Blueprint Overview | Resource Type | Resource | Link |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ The structure follows the **official Cisco exam blueprint domains**.
 
 ---
 
-# 5. Infrastructure and Automation (20%)
+### 5. Infrastructure and Automation (20%)
 
 | Subtopic | Blueprint Overview | Resource Type | Resource | Link |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ The structure follows the **official Cisco exam blueprint domains**.
 
 ---
 
-# 6. Network Fundamentals (15%)
+### 6. Network Fundamentals (15%)
 
 | Subtopic | Blueprint Overview | Resource Type | Resource | Link |
 |---|---|---|---|---|
